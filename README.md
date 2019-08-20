@@ -9,6 +9,6 @@ Steps
 
 <img src="/screenshot/insufficient.png" alt="start" title="Start" width="500" height="50" />
 
-3) If the requested units are not available an "Insufficient Amount!" message will be shown, otherwise the table will be updated and the user will now see remaining units for the item.
+3) If the requested units are not available an "Insufficient Quantity!" message will be shown, otherwise the table will be updated and the user will now see remaining units for the item.
 
 <img src="/screenshot/response.js.png" alt="start" title="Start" width="500" height="450" />
